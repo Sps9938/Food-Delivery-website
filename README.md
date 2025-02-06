@@ -29,7 +29,7 @@ This project is a dynamic and user-friendly food delivery website developed usin
 
 ## Usage
 
-1. Clone the repository:
+1. repository
    ```bash
    git clone https://github.com/Sps9938/Food-Delivery-website.git
    
