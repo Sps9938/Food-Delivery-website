@@ -7,7 +7,10 @@ Welcome to the Food Delivery Website repository created by Satya Prakash Sahu! ð
 This project is a dynamic and user-friendly food delivery website developed using HTML, CSS, and JavaScript. It offers an immersive experience for users to browse, select, and order from a wide range of culinary options.
 
 ## Screenshots
+## Front Page of Website
 ![image](https://github.com/Sps9938/Food-Delivery-website/blob/main/sample/home.jpg)
+
+## Menu
 ![image](https://github.com/Sps9938/Food-Delivery-website/blob/main/sample/menu_select.jpg)
 
 
